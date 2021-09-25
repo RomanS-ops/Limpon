@@ -43,3 +43,69 @@ h1 {
   font-weight: 600;
   color: #1085e4;
 }
+.page-subscribe {
+  font-size: 14px;
+}
+.page-subscribe h2 {
+  font-size: 50px;
+  color: #000;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.page-subscribe span {
+  font-size: 14px;
+  color: #1085e4;
+  display: block;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.page-subscribe p {
+  font-size: 18px;
+  font-weight: 700;
+  color: #000;
+}
+.page-subscribe button {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #fff;
+  background-color: #1085e4;
+}
+.page-software h2 {
+  font-size: 50px;
+  color: #192b59;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.page-software p {
+  font-weight: 700;
+  color: #7581a1;
+}
+.page-software dt {
+  font-weight: 700;
+  color: #5a6789;
+}
+.page-software dl {
+  font-weight: 700;
+  color: #7581a1;
+}
+.page-stat h2 {
+  font-size: 50px;
+  color: #192b59;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.page-stat span {
+  font-size: 16px;
+  color: #1085e4;
+  display: block;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.page-stat li {
+  font-size: 14px;
+}
+.page-stat li span {
+  font-size: 55px;
+  color: #bacbdc;
+}
